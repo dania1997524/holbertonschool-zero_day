@@ -1,1 +1,1 @@
-En esta carpeta encontraras archivos con los comandos de **emacs**
+This project is meant to show how to use emacs.
